@@ -85,7 +85,7 @@ for i in range(0,len(questions)):
             if(ask == 'n'.lower):
                 break
         elif(i==14):
-            money==10000000
+            money=10000000
 
     else:
         print("Sorry wrong answer")
